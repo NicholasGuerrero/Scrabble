@@ -1,0 +1,50 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "args": []
+        },
+        {
+            "type": "java",
+            "name": "Launch AnagramDictionaryTester",
+            "request": "launch",
+            "mainClass": "AnagramDictionaryTester",
+            "projectName": "PA4_464ea338"
+        },
+        {
+            "type": "java",
+            "name": "Launch Permutations",
+            "request": "launch",
+            "mainClass": "Nicks.Permutations",
+            "projectName": "PA4_464ea338"
+        },
+        {
+            "type": "java",
+            "name": "Launch RackTester",
+            "request": "launch",
+            "mainClass": "RackTester",
+            "projectName": "PA4_464ea338"
+        },
+        {
+            "type": "java",
+            "name": "Launch ScoreTableTester",
+            "request": "launch",
+            "mainClass": "ScoreTableTester",
+            "projectName": "PA4_464ea338"
+        },
+        {
+            "type": "java",
+            "name": "Launch WordFinder",
+            "request": "launch",
+            "mainClass": "WordFinder",
+            "projectName": "PA4_464ea338"
+        }
+    ]
+}
